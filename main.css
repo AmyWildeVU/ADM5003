@@ -59,8 +59,8 @@ html, body {
         }
 
         div#footer {
-            background: #42444e;
-            color: #fff;
+            background: #fdf5f5;
+            color: #000;
         }
 
         div#footer p {
@@ -91,4 +91,5 @@ html, body {
         div#footer {
             clear: left;
             width: 100%;
+            text-align: center;
         }
